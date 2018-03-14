@@ -1,0 +1,40 @@
+body {
+  background-color: gray;
+}
+
+p {
+  color: pink;
+}
+
+p.intro {
+  color: pink;
+  width: 50%;
+  font-style: italic;
+}
+p.flashy {
+  font-style: normal;
+  color: pink;
+}
+
+p.best {
+  width: 75%;
+  font-style: oblique;
+  color: maroon;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+.imagecenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.important {
+  font-style: italic;
+  color: red;
+}
