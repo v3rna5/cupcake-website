@@ -12,8 +12,8 @@ p.intro {
   font-style: italic;
 }
 p.flashy {
-  font-style: normal;
-  color: pink;
+  font-style: italic;
+  color: red;
 }
 
 p.best {
@@ -25,6 +25,22 @@ p.best {
 h1 {
   text-align: center;
   font-size: 50px;
+}
+h2.flashy {
+  color: red;
+  font-style: italic;
+  text-align: center;
+}
+h3.flashy{
+  color: red;
+  font-style: italic;
+  text-align: center;
+}
+
+.best {
+  text-align: center;
+  font-weight: bold;
+  color: green;
 }
 
 .imagecenter {
